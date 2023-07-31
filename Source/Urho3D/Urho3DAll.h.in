@@ -1,0 +1,9 @@
+// Copyright (c) 2008-2022 the Urho3D project
+// License: MIT
+
+#pragma once
+
+@URHO_HEADERS@
+#include <Urho3D/DebugNew.h>
+
+using namespace Urho3D;
